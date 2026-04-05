@@ -16,6 +16,28 @@ Welcome to my **Business Analysis Portfolio** – a carefully curated collection
 
 ---
 
+## 🚀 How to Use This Repository
+
+### For Recruiters & Hiring Managers
+1. Review the **project overviews** above for quick context
+2. Explore individual project folders for detailed deliverables
+3. Check the **BRD documents** for requirements analysis capability
+4. Review **BPMN models** for process thinking & visualization skills
+
+### For Peers & Collaborators
+1. Examine process models for best practices
+2. Review test scenarios for QA approach
+3. Study requirements documents for format & completeness
+4. Reference project plans for timeline estimation
+
+### For Learning & Reference
+1. Use as templates for your own business analysis work
+2. Reference for BPMN modeling standards
+3. Study as examples of professional documentation
+4. Adapt user story formats & structures
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -155,28 +177,6 @@ Scope: Technical documentation for technology infrastructure
 - 📊 Risk & issue registers
 - 📋 Test case specifications
 - 🎯 Sign-off & approval matrices
-
----
-
-## 🚀 How to Use This Repository
-
-### For Recruiters & Hiring Managers
-1. Review the **project overviews** above for quick context
-2. Explore individual project folders for detailed deliverables
-3. Check the **BRD documents** for requirements analysis capability
-4. Review **BPMN models** for process thinking & visualization skills
-
-### For Peers & Collaborators
-1. Examine process models for best practices
-2. Review test scenarios for QA approach
-3. Study requirements documents for format & completeness
-4. Reference project plans for timeline estimation
-
-### For Learning & Reference
-1. Use as templates for your own business analysis work
-2. Reference for BPMN modeling standards
-3. Study as examples of professional documentation
-4. Adapt user story formats & structures
 
 ---
 
